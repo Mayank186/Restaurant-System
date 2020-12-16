@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_order"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.example.a8866352155.beaconrestaurant.OrderActivity">
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/order_textview"
+        android:layout_marginLeft="100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Beacon Restaurant\n      Gandhinagar"
+        android:textColor="@color/colordark_grey"
+        android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+    <!--<android.support.v7.widget.CardView
+        android:layout_below="@+id/order_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        card_view:cardElevation="10dp">-->
+
+    <TextView
+        android:layout_margin="10dp"
+        android:layout_below="@+id/order_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textview_ordername"
+        android:text="Order Item"
+        android:textSize="20dp"
+        android:textColor="@color/colordark_grey"/>
+
+    <ImageView
+        android:id="@+id/imageview_order_line"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="2dp"
+        android:layout_below="@+id/textview_ordername"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/orders_line"/>
+
+        <RelativeLayout
+            android:id="@+id/myrelat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imageview_order_line">
+
+            <ImageView
+
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:id="@+id/item_image"
+                android:layout_margin="5dp"
+                android:layout_alignParentLeft="true"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/item_name"
+                android:text="item name"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:padding="10dp"
+                android:textColor="@color/colordark_grey"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="110dp"
+                android:layout_toRightOf="@+id/item_image"/>
+
+            <TextView
+                android:layout_marginTop="15dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/item_price"
+                android:text="item_price"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/colordark_grey"
+                android:layout_below="@+id/item_name"
+                android:layout_alignParentRight="true"
+                android:layout_marginLeft="230dp"/>
+
+
+            <ImageView
+                android:id="@+id/end_line_order"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_below="@+id/item_image"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/orders_line"/>
+        </RelativeLayout>
+    <!--</android.support.v7.widget.CardView>-->
+
+    <Button
+        android:layout_below="@+id/myrelat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Place Order"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:textColor="@color/colorWhite"
+        android:alpha="0.82"
+        android:id="@+id/order_now"
+        android:background="@color/colorGreen"/>
+
+    <include layout="@layout/activity_base"
+        />
+</RelativeLayout>

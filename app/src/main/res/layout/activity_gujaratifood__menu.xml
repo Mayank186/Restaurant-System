@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_gujaratifood__menu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.example.a8866352155.beaconrestaurant.Gujaratifood_Menu_Activity">
+
+    <!--<TextView
+        android:id="@+id/guj_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="YOUR ARE INSIDE Gujarati Food"
+        android:textSize="40dp"
+        android:textColor="@color/colorPrimaryDark"/>-->
+    <ImageView
+        android:src="@drawable/khaman"
+        android:id="@+id/guj_imageview"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        />
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_below="@+id/guj_imageview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/guj_recycler"/>
+</RelativeLayout>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:id="@+id/activity_bill"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.a8866352155.beaconrestaurant.BillActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@mipmap/food"/>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Your Item :"
+        android:id="@+id/your_item"
+        android:layout_alignParentLeft="true"/>
+
+     <TextView
+
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:id="@+id/bill_name"
+         android:text="bill is here"
+         android:layout_toRightOf="@+id/your_item"
+         android:layout_marginLeft="150dp"
+         />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="50dp">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Price:"
+            android:layout_alignParentLeft="true"
+            android:id="@+id/bill_price_texview"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/bill_price"
+          android:layout_marginLeft="150dp"
+            android:text="Your Bill is Here"
+            android:layout_toRightOf="@+id/bill_price_texview"/>
+
+        </RelativeLayout>
+
+        <Button
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pay Now"
+            android:textColor="@color/colorWhite"
+            android:background="@color/colorGreen"/>
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_about"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgtwo"
+    tools:context="com.example.a8866352155.beaconrestaurant.AboutActivity">
+
+    <TextView
+        android:layout_marginTop="100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="\n        Beacon Restaurant is enable with smart advertise. We Offer our Customer great Reliability,Feature and rich experience for order,notification,discount,bill payment.\n \n \n  Our VISION is to enhance customer satisfaction with BEACON technology, which is based on Digital India "
+        android:textSize="20dp"
+        android:textColor="@android:color/background_dark"/>
+    <include layout="@layout/activity_base"/>
+</RelativeLayout>

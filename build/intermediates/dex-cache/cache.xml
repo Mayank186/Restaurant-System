@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_776242a655b6e32f27c454f6bc2ca80faa567c01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_d2a185d3c2d1cc1734849410dc745a8ee61c7d21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_44765f4f3aa0ed621ee538badaaf047eaa80b3dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_1fb57a2c26c6e2e14c2fe128bfa622394e330b72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="743cf24cdc9fc020c57712e730eb67b50f90020a">
+        <dex dex="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\pre-dexed\debug\com.estimote-sdk-0.10.0_e22d30f9fdbfc3c5c41ed4b12794a8ad87c95db3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_d333073d40e97f3bd6323eb934883970d4a601b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.1.1_d92fc13cc555119ee7a3c4b03c6cab7f5f6c0275.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_ee8e7e3567396a583a4040fc2cb6b4d3027fe890.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_7a29aabd56a08d72be57e34e4e546e0175199f2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bapdada\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_c2b5731b60f3da49666987a4a811d49fdbb53906.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="056bbac1b5bdf93f902d3ca71bbc153b8be95215">
+        <dex dex="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_227250dc4b6ab084bbbb049ee10b984c52e54aa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_f663bf4b482d6df941838b51f3edb48335cc6089.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_afc245b45d9afb3fd70056267e05ee5bf70ff780.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_294d75bc284c8ea4e70b010fda467b9a0ed71c94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_886a871ea85f96a2c8ce870ec88e5077dfa9f13d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="62ae568c825771419de5cbc09b9ff46d49d9968f">
+        <dex dex="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\pre-dexed\debug\instant-run_6f6834631b2c8111bdedb4e4f8aa7eb13dfb4188.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\bapdada\AndroidStudioProjects\BeaconRestaurant\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_361e00df5df5a58d46ce24cddae399e9a2f23c84.jar" />
+    </item>
+
+</items>

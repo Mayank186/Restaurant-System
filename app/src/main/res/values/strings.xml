@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BeaconRestaurant</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+</resources>
